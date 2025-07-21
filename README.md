@@ -4,6 +4,7 @@ A the proggraming laguage;
 
 ## How to use: (linux only sorry :( )
 Download the main.c (eazy method)
+(Simply do this by clicking on it and then on the download icon)
 If you have done that install gcc with:
 ```
 sudo apt install gcc
@@ -17,6 +18,7 @@ gcc main.c -o a
 
 If you have done that move the ./a file to your persenol bin directory
 Now download the main.alang to see if everything works...
+(Simply do this by clicking on it and then on the download icon)
 ```
 cd Downloads
 ./a main.alang
