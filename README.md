@@ -21,7 +21,7 @@ Now download the main.alang to see if everything works...
 (Simply do this by clicking on it and then on the download icon)
 ```
 cd Downloads
-./a main.alang
+a main.alang
 ```
 
 Hopfully it works
@@ -49,7 +49,7 @@ WriteLine("Not 25 yet!");
 ```
 # 2. Run the program
 ```
-./a my_first.alang
+a my_first.alang
 ```
 You should see:
 
