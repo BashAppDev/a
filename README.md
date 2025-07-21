@@ -65,22 +65,26 @@ Variables
 var int : x = 10;
 var str : name = "Alex";
 var float : pi = 3.14;
+```
 WriteLine and Concatenation
-text
+```
 WriteLine("Value of x is "+x);
 WriteLine("Hello "+name);
+```
 Conditions (if/else)
 text
 if x == 10 {
-WriteLine("x is 10");
+    WriteLine("x is 10");
 } else {
-WriteLine("x is not 10");
+    WriteLine("x is not 10");
 }
+```
+
 Custom Functions
-text
+```
 fcn hello(var str : name, var int : age) {
-WriteLine("Hello "+name);
-WriteLine("You are "+age);
+    WriteLine("Hello "+name);
+    WriteLine("You are "+age);
 }
 
 fcn : hello(: "Sam", : 42);
